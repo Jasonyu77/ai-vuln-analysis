@@ -1,2 +1,11 @@
-# ai-vuln-analysis
-Analyzing Typical Vulnerabilities in the AI Ecosystem
+# AI Open-Source CVE Analysis
+
+This repository includes analysis and documentation of several vulnerabilities affecting AI open-source ecosystems.
+
+## Included CVEs
+- CVE-2020-28975 (scikit-learn / joblib)
+- CVE-2023-25399 (mlflow)
+- CVE-2024-5206 (scikit-learn TfidfVectorizer)
+- CVE-2025-54412 (skops)
+
+Author: jiexun yu
